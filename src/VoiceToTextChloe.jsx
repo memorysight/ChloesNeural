@@ -60,5 +60,4 @@ function VoiceToText() {
 }
 
 
-
 export default VoiceToText;
